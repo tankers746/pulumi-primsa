@@ -1,0 +1,6 @@
+config:
+  aws-typescript:db_name: Tipalti
+  aws-typescript:db_password:
+    secure: AAABAD1IGNx50KNqbVvRyeO4ZgDjhKYR5f+sNkMlzksHUpsYNqvdmR/E
+  aws-typescript:db_username: tipalti
+  aws:region: us-east-1
